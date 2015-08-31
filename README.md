@@ -2,13 +2,13 @@
 
 ##Subgroups
 
-Team A=Kevin, Ryan
+**Team A**=*Kevin, Ryan*
 
-Team B=Benjamin, Michael
+**Team B**=*Benjamin, Michael*
 
-Team C=Andrew, Matthew
+**Team C**=*Andrew, Matthew*
 
-Team D=Marvin,Myra
+**Team D**=*Marvin,Myra*
 
 ##Roles
 
